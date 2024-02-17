@@ -14,7 +14,7 @@ const Projects = () => {
 
         <div className="card__back">
           <p className="card__body">{p.desc}<br/><br/>
-          <a href={p.link} target='_blank'>Visit Website <HiOutlineExternalLink/></a>
+          {/* <a href={p.link} target='_blank'>Visit Website <HiOutlineExternalLink/></a> */}
           <a href={p.github} target='_blank'>See Code <AiFillGithub/></a>
           </p>
           

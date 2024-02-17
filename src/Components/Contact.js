@@ -34,11 +34,11 @@ const Contact = () => {
                     <button className="signin-button">Send</button>
                 </form>
             </div>
-            <h2 align="center">You can also directly email me on tarshtarsh333@gmail.com. Following are my social links.</h2>
+            <h2 align="center">You can also directly email me on gaganjnv2001@gmail.com. Following are my social links.</h2>
             <div className='social-links'>
-                <a href="https://www.linkedin.com/in/tarsh/" target='_blank'><AiFillLinkedin /></a>
-                <a href="https://github.com/Tarsh333" target='_blank'><AiFillGithub /></a>
-                <a href="https://www.instagram.com/tarsh333/" target='_blank'><AiFillInstagram /></a>
+                <a href="https://www.linkedin.com/in/gagan-singh-01b834222/" target='_blank'><AiFillLinkedin /></a>
+                <a href="https://github.com/Kunal-2417" target='_blank'><AiFillGithub /></a>
+                <a href="https://www.instagram.com/kunal.rathore_2417/" target='_blank'><AiFillInstagram /></a>
             </div>
         </div>
     )

@@ -1,11 +1,11 @@
 const projects=[
     {
         id:1,
-        name:'Covid-Care',
+        name:'Honey-Hill',
         link:'https://covid-care-iiitdmj.herokuapp.com/',
         image:'../Covid-Care.PNG',
-        desc:'It is an application to share covid related resources. It also has functionality to record and view vaccination records of an organization. Technologies used are PHP and MySQL',
-        github:'https://github.com/Tarsh333/covid-care-final'
+        desc:'Booking Site | Full-Stack Web Application — ReactJS, Node.js, MongoDB • Hotel booking site developed using the MERN stack featuring hotel listings, search, booking, alongside implemented user authentication, responsive design, and testing.',
+        github:'https://github.com/Kunal-2417/main-honeyhill'
     },
     {
         id:2,
@@ -13,15 +13,15 @@ const projects=[
         link:'https://algo-visualizer-tarsh.netlify.app/',
         image:'../algo-visualizer.PNG',
         desc:'It is a fully responsive application to help understand and visualize various sorting algorithms via animations.',
-        github:'https://github.com/Tarsh333/News-App'
+        github:'https://github.com/Kunal-2417/algo-visualizer'
     },
     {
         id:3,
-        name:'React E-commerce Website',
+        name:'Face Recognition Based Smart Attendance System',
         link:'https://e-mobile-shop-react.netlify.app/',
         image:'../Ecommerce.PNG',
-        desc:'It is a React based E-commerce website with stripe checkout functionality.',
-        github:'https://github.com/Tarsh333/React-E-commerce'
+        desc:'Developed system for automated attendance with face detection & recognition using OpenCV, scikit-learn, and pickle, featuring real-time recognition, CSV file management, Win32com for text-to-speech, UI/UX enhancements via Streamlit',
+        github:'https://github.com/Kunal-2417/face-attendance'
     },
     {
         id:4,
@@ -29,7 +29,7 @@ const projects=[
         link:'https://news-app-tarsh.vercel.app/',
         image:'../News-App.PNG',
         desc:'It is a MERN Stack Application to show the latest and trending news with login and signup options. Technologies used are NodeJS, Express.js, MongoDB, ReactJS, Material UI and https://developer.nytimes.com/apis API. JWTs are used for authentication.',
-        github:'https://github.com/Tarsh333/News-App'
+        github:'https://github.com/Kunal-2417/News-Buddy-Final'
     }
 ]
 export default projects
