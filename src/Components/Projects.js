@@ -2,7 +2,6 @@ import React from 'react'
 import projectsInfo from './ProjectsInfo'
 import { GrProjects } from 'react-icons/gr'
 import { AiFillGithub } from 'react-icons/ai'
-import { HiOutlineExternalLink } from 'react-icons/hi'
 const Projects = () => {
   const proj = projectsInfo.map((p) => {
     return (<div className="card" key={p.id}>
@@ -15,7 +14,7 @@ const Projects = () => {
         <div className="card__back">
           <p className="card__body">{p.desc}<br/><br/>
           {/* <a href={p.link} target='_blank'>Visit Website <HiOutlineExternalLink/></a> */}
-          <a href={p.github} target='_blank'>See Code <AiFillGithub/></a>
+            <a href={p.github} target='_blank' rel="noopener noreferrer">See Code <AiFillGithub/></a>
           </p>
           
         </div>

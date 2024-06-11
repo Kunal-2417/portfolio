@@ -36,9 +36,9 @@ const Contact = () => {
             </div>
             <h2 align="center">You can also directly email me on gaganjnv2001@gmail.com. Following are my social links.</h2>
             <div className='social-links'>
-                <a href="https://www.linkedin.com/in/gagan-singh-01b834222/" target='_blank'><AiFillLinkedin /></a>
-                <a href="https://github.com/Kunal-2417" target='_blank'><AiFillGithub /></a>
-                <a href="https://www.instagram.com/kunal.rathore_2417/" target='_blank'><AiFillInstagram /></a>
+                <a href="https://www.linkedin.com/in/gagan-singh-01b834222/" target='_blank' rel="noopener noreferrer"><AiFillLinkedin /></a>
+                <a href="https://github.com/Kunal-2417" target='_blank' rel="noopener noreferrer"><AiFillGithub /></a>
+                <a href="https://www.instagram.com/kunal.rathore_2417/" target='_blank' rel="noopener noreferrer"><AiFillInstagram /></a>
             </div>
         </div>
     )

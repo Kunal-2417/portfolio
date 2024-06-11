@@ -11,7 +11,7 @@ const About = () => {
         <div id="about">
            <div>
                 <h1 className='heading'>About</h1>
-                <p className='mb-4'>Hi, My name is Gagan Singh. I am a full stack web developer & programmer. I make web applications mostly using MERN stack. I love making making rich interactive websites and am passionate about learning new skills. Currently pursing bachelors in Computer Science at <a href="https://www.iiitdmj.ac.in/" target="_blank">IIIT Jabalpur</a>.  </p> 
+                <p className='mb-4'>Hi, My name is Gagan Singh. I am a full stack web developer & programmer. I make web applications mostly using MERN stack. I love making making rich interactive websites and am passionate about learning new skills. Currently pursing bachelors in Computer Science at <a href="https://www.iiitdmj.ac.in/" target="_blank" rel="noopener noreferrer">IIIT Jabalpur</a>.  </p> 
                 <a href="#skills" onClick={handleClick} className='highlight font-22'>Check Out My Skills &#8595;</a> 
                 
             </div> 
