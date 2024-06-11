@@ -1,6 +1,14 @@
 const projects=[
     {
-        id:1,
+        id: 1,
+        name: 'Dental products compare site',
+        link: 'https://covid-care-iiitdmj.herokuapp.com/',
+        image: '../Covid-Care.PNG',
+        desc: 'Comparator Site | Full-Stack Web Application — ReactJS,Python, Node.js, MongoDB • Comparing products from various online stores, showcasing data scraping skills using Python',
+        github: 'https://github.com/Kunal-2417/Dummy-Project'
+    },
+    {
+        id:2,
         name:'Honey-Hill',
         link:'https://covid-care-iiitdmj.herokuapp.com/',
         image:'../Covid-Care.PNG',
@@ -8,7 +16,7 @@ const projects=[
         github:'https://github.com/Kunal-2417/main-honeyhill'
     },
     {
-        id:2,
+        id:3,
         name:'Algorithm Visualizer',
         link:'https://algo-visualizer-tarsh.netlify.app/',
         image:'../algo-visualizer.PNG',
@@ -16,7 +24,7 @@ const projects=[
         github:'https://github.com/Kunal-2417/algo-visualizer'
     },
     {
-        id:3,
+        id:4,
         name:'Face Recognition Based Smart Attendance System',
         link:'https://e-mobile-shop-react.netlify.app/',
         image:'../Ecommerce.PNG',
@@ -24,7 +32,7 @@ const projects=[
         github:'https://github.com/Kunal-2417/face-attendance'
     },
     {
-        id:4,
+        id:5,
         name:'MERN News App',
         link:'https://news-app-tarsh.vercel.app/',
         image:'../News-App.PNG',
